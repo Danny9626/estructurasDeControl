@@ -9,7 +9,7 @@ En la condicion se utilizan operadores de comparación.
 */
 
 console.log("------------------------if/else---------------------------")
-let edad=26;
+let edad=2666;
 
 
 if (edad>=18) { //Inicio de la condicion
